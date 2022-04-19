@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Jerry-Parkerson/Jerry-Parkerson">
-  <img height="350px" width="10px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Parkerson&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="350px" width="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry-Parkerson&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Jerry-Parkerson/Jerry-Parkerson">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jerry-Parkerson&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Paul Jerry's GitHub Stats" />
