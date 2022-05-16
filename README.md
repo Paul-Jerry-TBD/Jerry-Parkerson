@@ -2,12 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-Paul Jerry is a software engineer and business developer. I'm from Nigeria and currently reside in Benin City, where I'm pursuing my goals of leadership and service.
-
-
-<br> 
-I'm learning #C, Javascript, and Python since I'm interested in full stack development. I'm also looking for full-stack projects with which to collaborate. Paulomoragbon750@gmail.com is my contact information.
-</br>
+Paul Jerry is a business developer and software engineer. I'm from Nigeria, and I'm presently based in Benin City, where I'm working toward my leadership and service aspirations. Because I'm interested in full stack programming, I'm learning #C, Javascript, and Python. I'm also searching for opportunities to work on full-stack projects. 
 
 
  
