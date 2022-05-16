@@ -4,7 +4,7 @@
 
 Paul Jerry is a software engineer and business developer. I'm from Nigeria and currently reside in Benin City, where I'm pursuing my goals of leadership and service.
 
-<!-- - 🔭 I’m currently working on Software development for web and mobile stack...
+
 <br> 
 I'm learning #C, Javascript, and Python since I'm interested in full stack development. I'm also looking for full-stack projects with which to collaborate. Paulomoragbon750@gmail.com is my contact information.
 </br>
