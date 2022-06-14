@@ -2,7 +2,7 @@
 
 # Hello, folks! 
 
-Paul Jerry is a business developer and software engineer. I'm from Nigeria, and I'm presently based in Benin City, where I'm working toward my leadership and service aspirations. Because I'm interested in full stack programming, I'm learning #C, Javascript, and Python. I'm also searching for opportunities to work on full-stack projects. 
+Paul Jerry is a business developer and software engineer. I'm from Nigeria, and I'm presently based in Benin City, where I'm working toward my leadership and service aspirations. Because I'm interested in full-stack programming, I'm learning #C, Javascript, and Python. I'm also searching for opportunities to work on Financial projects to make the calculated decisions designed to keep businesses financially healthy and ahead of the competition. 
 
 
  
