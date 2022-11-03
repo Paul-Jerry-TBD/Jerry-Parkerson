@@ -1,4 +1,4 @@
-<!-- [![Header](https://github.com/Jerry-Parkerson/Jerry-Parkerson/blob/main/readme.jpg "Header")](https://martinheinz.dev/) -->
+[![Header](https://github.com/Jerry-Parkerson/Jerry-Parkerson/blob/main/readme.jpg "Header")](https://martinheinz.dev/)
 
 # Hello, folks! 
 
